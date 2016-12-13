@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DynamoDB: Retrieve data</string>
+
+    <string name="text_album_name">Album name</string>
+    <string name="text_album_company">Company</string>
+    <string name="text_album_year">Year</string>
+
+    <string name="text_song_name">Song name</string>
+    <string name="text_track_number">Track number</string>
+
+</resources>
