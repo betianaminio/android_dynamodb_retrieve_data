@@ -1,6 +1,12 @@
 # Amazon DynamoDB - JAVA - Retrieving data
 A basic example that shows how to scan and query tables data from Dynamodb in an Android Application.
 
+## **Showcase**
+![main_framed](https://github.com/betianaminio/android_dynamodb_retrieve_data/blob/master/imgs/main_framed.png)
+![main_2_framed](https://github.com/betianaminio/android_dynamodb_retrieve_data/blob/master/imgs/main_2_framed.png)
+![track_list_framed](https://github.com/betianaminio/android_dynamodb_retrieve_data/blob/master/imgs/track_list_framed.png)
+![track_list_2_framed](https://github.com/betianaminio/android_dynamodb_retrieve_data/blob/master/imgs/track_list_2_framed.png)
+
 ## **Prerequisites**
 
 * An Amazon AWS Account
